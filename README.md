@@ -1,7 +1,7 @@
-### Mark Clark
+# Mark Clark
 ## Software and Web Applications Developer
-# Javascript - Python - SQL - MongoDB
-# React - Django - Node - Sequalize - MariaDB
+### Javascript - Python - SQL - MongoDB
+### React - Django - Node - Sequalize - MariaDB
 
 <!--
 **fitDizzle/fitDizzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
