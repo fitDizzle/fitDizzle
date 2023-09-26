@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitdizzle&label=Profile%20views&color=0e75b6&style=flat" alt="fitdizzle" /> </p>
 
-- 🌱 I’m currently studying **DevOps**
+- 🌱 I’m currently studying **Kubernetes, Jenkins and Docker**
 
 - 📫 How to reach me **mark@idevforweb.com**
 
